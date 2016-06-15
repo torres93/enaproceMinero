@@ -1,0 +1,51 @@
+﻿select,button {
+    font:9pt;
+    padding: 3px;
+    /*background-color: #f3f3f3;*/
+    border: 1px solid #b0b0b0;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color: #888;
+}
+button{
+    min-width:60px;
+    padding:10px 15px;
+}
+
+#dominioContainer,#variableContainer
+{
+    min-height:120px;
+}
+
+#dominioContainer .row,#variableContainer .row
+{
+    margin:10px 0px;
+}
+
+body
+{
+    color:#808080;
+    font:9pt arial;
+}
+
+.ribbon
+{
+    background-color:#dee4e9;
+    color:#012d59;
+    font:11pt;
+    padding:8px;
+}
+
+.content
+{
+    padding:20px;
+    border:1px solid #dee4e9;
+}
+
+.content ul li 
+{
+    list-style:none;
+}

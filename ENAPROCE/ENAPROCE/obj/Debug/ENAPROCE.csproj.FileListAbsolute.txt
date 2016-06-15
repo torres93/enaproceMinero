@@ -1,0 +1,12 @@
+C:\Users\enrique.rodriguez\Documents\proyectos\ENAPROCE\ENAPROCE\bin\ENAPROCE.dll.config
+C:\Users\enrique.rodriguez\Documents\proyectos\ENAPROCE\ENAPROCE\bin\ENAPROCE.dll
+C:\Users\enrique.rodriguez\Documents\proyectos\ENAPROCE\ENAPROCE\bin\ENAPROCE.pdb
+C:\Users\enrique.rodriguez\Documents\proyectos\ENAPROCE\ENAPROCE\obj\Debug\ENAPROCE.dll
+C:\Users\enrique.rodriguez\Documents\proyectos\ENAPROCE\ENAPROCE\obj\Debug\ENAPROCE.pdb
+C:\Users\enrique.rodriguez\Documents\proyectos\ENAPROCE\ENAPROCE\obj\Debug\ENAPROCE.csprojResolveAssemblyReference.cache
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\proyectos\ENAPROCE\ENAPROCE\bin\ENAPROCE.dll.config
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\proyectos\ENAPROCE\ENAPROCE\bin\ENAPROCE.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\proyectos\ENAPROCE\ENAPROCE\bin\ENAPROCE.pdb
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\proyectos\ENAPROCE\ENAPROCE\obj\Debug\ENAPROCE.csprojResolveAssemblyReference.cache
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\proyectos\ENAPROCE\ENAPROCE\obj\Debug\ENAPROCE.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\proyectos\ENAPROCE\ENAPROCE\obj\Debug\ENAPROCE.pdb
